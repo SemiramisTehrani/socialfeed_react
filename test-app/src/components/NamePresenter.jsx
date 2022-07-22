@@ -1,8 +1,10 @@
 import React from "react";
+//import React from "react", {useState} from 'react';
+
 
 const NamePresenter = (props) => {
 
-    return <div> I am from the name component!</div>
+    return <div> </div>
 
 };
 
