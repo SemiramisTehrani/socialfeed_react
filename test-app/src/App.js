@@ -1,4 +1,4 @@
-import React from 'react';
+//import React from 'react';
 import CreatePost from './components/createPost';
 import React, { useState } from 'react';
 
