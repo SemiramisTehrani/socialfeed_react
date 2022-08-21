@@ -1,0 +1,27 @@
+
+#message{
+    text-align: left;
+    
+}
+.form-group{
+    max-width: 300px;
+    box-sizing: border-box;
+    border: lightskyblue;
+    border-width: 3px;
+    overflow-wrap: break-word; 
+    margin-left: 10px
+;
+}
+label{
+    font-weight: bolder;
+}
+.btn{
+    background-color: rgb(25, 16, 112);
+    color: ivory;
+    margin-top: 1em;
+    margin-left: 10px;
+
+}
+#name{
+    text-transform: capitalize;
+}

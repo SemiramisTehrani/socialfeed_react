@@ -1,0 +1,15 @@
+button{
+    background-color:rgb(255, 255, 255);
+    margin-left: 1em;
+}
+#likeButton.active{
+    background-color: rgb(70, 114, 4);
+}
+#dislikeButton.active{
+    background-color: red;
+}
+.customButtons{
+    display: flex;
+    align-items: center;
+
+}
